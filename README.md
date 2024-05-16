@@ -18,7 +18,7 @@ Assurez-vous d'avoir Node.js installé sur votre machine.
 1. Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/BarAppDashboard.git
+git clone https://github.com/JusGaga/BarAppDashboard.git
 ```
 
 2. Accédez au répertoire du projet :
