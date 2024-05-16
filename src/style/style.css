@@ -1,0 +1,18 @@
+body {
+    background-color: #3F3651 !important;
+    font-family: "Pink Sunset", serif !important;
+    color: #FCF2E6 !important;
+}
+
+* {
+    color: #FCF2E6 !important;
+}
+
+.textColor {
+    color: #3F3651 !important;
+}
+
+@font-face {
+    font-family: "Pink Sunset";
+    src: url("src/assets/PinkSunset-Regular.ttf");
+}
